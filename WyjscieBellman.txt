@@ -1,0 +1,9 @@
+--------------------
+   Rozwiazanie
+
+Wewzel poczatkowy -> 0
+
+0->0      Najkrotsza droga: 0
+1->3      Najkrotsza droga: 0->2->1
+2->3      Najkrotsza droga: 0->2
+3->3      Najkrotsza droga: 0->2->1->3
